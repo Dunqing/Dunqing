@@ -1,189 +1,181 @@
-<section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com" style="color: black; line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; word-break: break-word; word-wrap: break-word; text-align: left; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 14px; padding: 10px;"><figure data-tool="mdnice编辑器" style="margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;"><figcaption style="margin-top: 5px; text-align: center; color: #888; font-size: 12px;">邓清</figcaption></figure>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-size: 22px; text-align: center; position: relative; font-weight: bold; color: black; line-height: 1.1em; padding-top: 12px; padding-bottom: 12px; margin: 70px 30px 30px; border: 1px solid #000;"><span style="float: left; display: block; width: 90%; border-top: 1px solid #000; height: 1px; line-height: 1px; margin-left: -5px; margin-top: -17px;"> </span><span class="prefix" style="display: block; width: 3px; margin: 0 0 0 5%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span class="content" style="display: block; -webkit-box-reflect: below 0em -webkit-gradient(linear,left top,left bottom, from(rgba(0,0,0,0)),to(rgba(255,255,255,0.1)));">自我介绍</span><span class="suffix" style="display: block; width: 3px; margin: 0 0 0 95%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span style="float: right; display: block; width: 90%; border-bottom: 1px solid #000; height: 1px; line-height: 1px; margin-right: -5px; margin-top: 16px;"> </span></h2>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">我叫邓清。今年 20 岁。来自广东韶关。我从 2019 年 4 月开始工作，到现在为止已经有一年四个月了，在此期间我曾在两家公司工作。在工作中我主要负责小程序和小程序的后台管理平台开发，也涉及到一些简单的后端项目开发。我致力于成为一名优秀的全栈工程师，在前端稳步提升，后端站稳脚根，追上时代更新的步伐。</p>
-</blockquote>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-size: 22px; text-align: center; position: relative; font-weight: bold; color: black; line-height: 1.1em; padding-top: 12px; padding-bottom: 12px; margin: 70px 30px 30px; border: 1px solid #000;"><span style="float: left; display: block; width: 90%; border-top: 1px solid #000; height: 1px; line-height: 1px; margin-left: -5px; margin-top: -17px;"> </span><span class="prefix" style="display: block; width: 3px; margin: 0 0 0 5%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span class="content" style="display: block; -webkit-box-reflect: below 0em -webkit-gradient(linear,left top,left bottom, from(rgba(0,0,0,0)),to(rgba(255,255,255,0.1)));">联系方式</span><span class="suffix" style="display: block; width: 3px; margin: 0 0 0 95%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span style="float: right; display: block; width: 90%; border-bottom: 1px solid #000; height: 1px; line-height: 1px; margin-right: -5px; margin-top: 16px;"> </span></h2>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">手机号：15917033340</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">微信：15917033340</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">邮箱：1247748612@qq.com</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">github：<a href="https://github.com/1247748612" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">https://github.com/1247748612</a></section></li></ul>
-</blockquote>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-size: 22px; text-align: center; position: relative; font-weight: bold; color: black; line-height: 1.1em; padding-top: 12px; padding-bottom: 12px; margin: 70px 30px 30px; border: 1px solid #000;"><span style="float: left; display: block; width: 90%; border-top: 1px solid #000; height: 1px; line-height: 1px; margin-left: -5px; margin-top: -17px;"> </span><span class="prefix" style="display: block; width: 3px; margin: 0 0 0 5%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span class="content" style="display: block; -webkit-box-reflect: below 0em -webkit-gradient(linear,left top,left bottom, from(rgba(0,0,0,0)),to(rgba(255,255,255,0.1)));">教育背景</span><span class="suffix" style="display: block; width: 3px; margin: 0 0 0 95%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span style="float: right; display: block; width: 90%; border-bottom: 1px solid #000; height: 1px; line-height: 1px; margin-right: -5px; margin-top: 16px;"> </span></h2>
-<section class="table-container" data-tool="mdnice编辑器" style="overflow-x: auto;"><table style="display: table; text-align: left;">
-<thead>
-<tr style="border: 0; border-top: 1px solid #ccc; background-color: white;">
-<th style="border: 1px solid #ccc; padding: 5px 10px; font-weight: bold; background-color: #f0f0f0; font-size: 14px; min-width: 85px; text-align: center;">时间</th>
-<th style="border: 1px solid #ccc; padding: 5px 10px; font-weight: bold; background-color: #f0f0f0; font-size: 14px; min-width: 85px; text-align: center;">学校名</th>
-<th style="border: 1px solid #ccc; padding: 5px 10px; font-weight: bold; background-color: #f0f0f0; font-size: 14px; min-width: 85px; text-align: center;">专业</th>
-<th style="border: 1px solid #ccc; padding: 5px 10px; text-align: left; font-weight: bold; background-color: #f0f0f0; font-size: 14px; min-width: 85px;">学历</th>
-</tr>
-</thead>
-<tbody style="border: 0;">
-<tr style="border: 0; border-top: 1px solid #ccc; background-color: white;">
-<td style="border: 1px solid #ccc; padding: 5px 10px; font-size: 14px; min-width: 85px; text-align: center;">2017.09-2020.01</td>
-<td style="border: 1px solid #ccc; padding: 5px 10px; font-size: 14px; min-width: 85px; text-align: center;">广州华立技师学院</td>
-<td style="border: 1px solid #ccc; padding: 5px 10px; font-size: 14px; min-width: 85px; text-align: center;">计算机程序设计</td>
-<td style="border: 1px solid #ccc; padding: 5px 10px; text-align: left; font-size: 14px; min-width: 85px;">高技</td>
-</tr>
-<tr style="border: 0; border-top: 1px solid #ccc; background-color: #F8F8F8;">
-<td style="border: 1px solid #ccc; padding: 5px 10px; font-size: 14px; min-width: 85px; text-align: center;">2019.01-2022.01</td>
-<td style="border: 1px solid #ccc; padding: 5px 10px; font-size: 14px; min-width: 85px; text-align: center;">广州华立科技职业学院</td>
-<td style="border: 1px solid #ccc; padding: 5px 10px; font-size: 14px; min-width: 85px; text-align: center;">计算机程序设计</td>
-<td style="border: 1px solid #ccc; padding: 5px 10px; text-align: left; font-size: 14px; min-width: 85px;">大专</td>
-</tr>
-</tbody>
-</table>
-</section><h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-size: 22px; text-align: center; position: relative; font-weight: bold; color: black; line-height: 1.1em; padding-top: 12px; padding-bottom: 12px; margin: 70px 30px 30px; border: 1px solid #000;"><span style="float: left; display: block; width: 90%; border-top: 1px solid #000; height: 1px; line-height: 1px; margin-left: -5px; margin-top: -17px;"> </span><span class="prefix" style="display: block; width: 3px; margin: 0 0 0 5%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span class="content" style="display: block; -webkit-box-reflect: below 0em -webkit-gradient(linear,left top,left bottom, from(rgba(0,0,0,0)),to(rgba(255,255,255,0.1)));">工作经历</span><span class="suffix" style="display: block; width: 3px; margin: 0 0 0 95%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span style="float: right; display: block; width: 90%; border-bottom: 1px solid #000; height: 1px; line-height: 1px; margin-right: -5px; margin-top: 16px;"> </span></h2>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">广州弘凯物联网公司</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">2019.04-2019.09</p>
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">开发公司 pc 商城页面，php 架构，开发由 cordova 打包的基于 vue 框架的 app 项目。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">重构 vue 页面，封装常用组件。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">结合 ui 设计图，和后端 api，开发过六分钟步行测试整个功能的实现。</section></li></ul>
-</blockquote>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">东莞知鸟科技有限公司</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">2019.10-2020.8</p>
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">新型房地产公司，开发基于公司项目的微信小程序和后台项目、推广项目。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">开发的项目有：知鸟 OA 一版、二版、房必应小程序、房必应后台、楼盘推广页</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">用到的技术栈：原生微信小程序、mpx、megalo 微信小程序框架，vue 全家桶，avue, js/typescript，gatsby。nestjs</section></li></ul>
-</blockquote>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-size: 22px; text-align: center; position: relative; font-weight: bold; color: black; line-height: 1.1em; padding-top: 12px; padding-bottom: 12px; margin: 70px 30px 30px; border: 1px solid #000;"><span style="float: left; display: block; width: 90%; border-top: 1px solid #000; height: 1px; line-height: 1px; margin-left: -5px; margin-top: -17px;"> </span><span class="prefix" style="display: block; width: 3px; margin: 0 0 0 5%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span class="content" style="display: block; -webkit-box-reflect: below 0em -webkit-gradient(linear,left top,left bottom, from(rgba(0,0,0,0)),to(rgba(255,255,255,0.1)));">工作项目</span><span class="suffix" style="display: block; width: 3px; margin: 0 0 0 95%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span style="float: right; display: block; width: 90%; border-bottom: 1px solid #000; height: 1px; line-height: 1px; margin-right: -5px; margin-top: 16px;"> </span></h2>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">知鸟 OA（小程序）</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">公司内部的工作项目管理小程序（独立开发，开发周期三个月），先后开发过两个版本，第一个版本采用 megalo框架开发，因为各种问题导致不好用，后面，团队人员更新，前后端重构，小程序则采用原生开发。</p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目人员及开发周期：独立开发，开发周期三个月</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈：原生小程序，websocket，组件库 vant-weapp。无 ui 开发</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：管理级人员发布项目，部门组长发布项目任务，部门人员接任务。展示人员信息。任务消息通知，任务交流，项目交流。小程序消息通知。消息通知实时通知，采用 websockets。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：项目展示，项目发布，项目详情，任务发布页，项目进度展示页，项目讨论。操作记录，消息通知，个人信息，帮助中心页，公司员工列表。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目状况：项目已上线，但未使用，因为上线完后，任务流程变动，变得不符合公司使用，就放弃了。</section></li></ul>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">房必应（小程序）</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">公司项目，提供客户发布需求，中介按照需求提供房源的想法，而开发的一个小程序。采用的是<a href="https://github.com/didi/mpx/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">mpx</a>框架开发，因为这个小程序设想之处就是较为庞大和复杂的，原生小程序虽然可以开发，但是较为复杂，和不好用的情况，经过和各类小程序框架对比，选择了 mpx。</p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目人员及开发周期：前期独立开发，后期时间太赶，有另一个前端开发了部分页面。开发周期加上后台为四个多月</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈：<a href="https://github.com/didi/mpx/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">mpx</a>全家桶，微信小程序原生 api</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：房源发布和房源推荐等都是后台动态配置的，以及有微信支付，小程序消息通知等功能。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：房源发布、房源推荐、房源列表、中介和物业入驻、帮助中心、我的个人页等等</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目状况：项目已上线，迭代过多个小版本，之后因疫情原因导致公司运转问题已不维护和运营，但还是能搜到该小程序。</section></li></ul>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">房必应（后台）</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">对标房必应小程序的后台，在小程序之前开发，先开发了基础的后台功能。clone 了<a href="https://github.com/Armour/vue-typescript-admin-template" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">vue-typescript-admin-template</a>进行二次开发。改造了路由配置，大致流程为登陆后从后端获取菜单，然后处理之后 resetRouter 实现，为之后的不同人员的权限打下了基础。基础功能开发完后，和小程序进行同步开发。</p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目人员及开发周期：前期独立开发，后期时间太赶，有其他前端和后端参与开发了。项目周期加上小程序为四个多月。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈：vue 全家桶，typescript，<a href="https://avuejs.com/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">avue</a>，element-ui</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：菜单和路由动态获取，也可动态分配路由。涵盖了小程序功能上的所有内容管理</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：系统级页面有（用户，角色，字典，菜单，日志）还有管理小程序的页面及配置项页，数据统计页，总共有十多个页面。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">优化：采用了组件按需引入，gzip 压缩，图片压缩，图片和打包后的静态文件等都采用 oss 存储，一秒内即可看到页面。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目状况：项目已上线，可访问，可操作。</section></li></ul>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">楼盘推广页（h5 自适应）</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">该项目其实非常简单只需要一个页面，但是推广页面非常的多和繁琐，到现在为止已经做了十十多个推广页。主要流程为设计师出图，ui 排版，前端根据 ui 图写成页面。</p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈（两种技术栈都实现了推广页）：
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">vue、vant、typescript</section></li><li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">gatsby、和 gatsby 的插件、typescript</section></li></ul>
-</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">vue：单页面，无路由，由于页面太多和功能可服用，不可能每个页面都创建一个项目，但是每个页面都需要单独部署。则采用了 git 来管理，一个页面一个分支的方式。</section></li><li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">gatsby: gatsby 为基于 react 的静态网站生成器，本身就支持 ssr，利于 seo 优化。而且容易管理多页面。非常符合我们的需求，之后就采用来 gatsby 实现。效果也很棒</section></li></ul>
-</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">优化：全部采用 oss 存储图片和打包的静态文件。类似于 cdn 加速。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目状况：楼盘结束则页面也停止展示了。</section></li></ul>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-size: 22px; text-align: center; position: relative; font-weight: bold; color: black; line-height: 1.1em; padding-top: 12px; padding-bottom: 12px; margin: 70px 30px 30px; border: 1px solid #000;"><span style="float: left; display: block; width: 90%; border-top: 1px solid #000; height: 1px; line-height: 1px; margin-left: -5px; margin-top: -17px;"> </span><span class="prefix" style="display: block; width: 3px; margin: 0 0 0 5%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span class="content" style="display: block; -webkit-box-reflect: below 0em -webkit-gradient(linear,left top,left bottom, from(rgba(0,0,0,0)),to(rgba(255,255,255,0.1)));">个人实践项目</span><span class="suffix" style="display: block; width: 3px; margin: 0 0 0 95%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span style="float: right; display: block; width: 90%; border-bottom: 1px solid #000; height: 1px; line-height: 1px; margin-right: -5px; margin-top: 16px;"> </span></h2>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">线上简历（本简历的线上版本）</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">采用 mdnice 编写好简历，用 gatsby 去展示，github pages 部署<a href="https://1247748612.github.io/resume/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">预览地址</a></p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈：
-gatsby、markdown</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：使用 gatsby 插件 gatsby-transformer-remark 将简历.md 转为 html 渲染成页面</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：简历页、404 页</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目状态：
-正常运行中</section></li></ul>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">实时聊天项目</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">就是非常简化版的 qq 微信，登陆之后就能去聊天了。</p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈：
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">前端：vue、vuetify、vue-socket.io</section></li><li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">后端：nestjs、socket.io</section></li></ul>
-</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：
-登陆之后才可跳转到聊天界面，未登陆则路由被拦截。聊天记录存储到了数据库。登陆和 socket.io 都采用了 jwt 做拦截</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：登陆页、聊天页、详情页</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目难点：后端 socket.io 聊天，没有权限判断，参考了 passport-jwt 的做法，用在了 socketio 上。</section></li></ul>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">基础通用后台模板</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">项目灵感来源于公司项目房必应的后台。搭建基础模板非常的繁琐，和没必要。如果能直接把基础页面功能做了，之后的项目套用开发岂不是更快吗。本项目，先后使用 vue 和 angular 加上后端 nestjs 实现过。本打算继续使用 react 实现一套，采用的 umi，但多次尝试，达不到我想要的效果就放弃了。</p>
-</blockquote>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<h3 style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">基于 vue</span><span class="suffix" style="display: none;"></span></h3>
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">和房必应的后台非常相似，但去除了许多不必要的包，也没有采用 avue 来解决页面的 crud。而是参考 avue，采用 elementui 开发了一套简单版的 avue。但它也是高可服用的，因为是自己开发的，有了迭代的便利。<a href="https://www.dengqing.net/vue-admin/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">项目预览</a></p>
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈（都采用 typescript 开发）：</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">前端：vue 全家桶，element-ui，tinymce，mavon。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">后端：nestjs，mongodb，redis</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">前端：基于 rbac 权限模型设计，根据权限标识符权限精确到按钮级别。动态配置路由及在线用户踢出等。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">后端：基于权限标识符，针对用户，对应等标识符，做到接口级别的权限判断，就算是跑接口也会返回 401，超级权限用户则随意访问任意接口。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：系统级页面包含，用户管理、角色管理、菜单管理、字典管理、在线用户管理和日志管理</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">实现难点：针对接口级别的权限判断，后面参考了各种解决方案，了解到了 rbac 权限模型的方式，根据权限标识符去做拦截，才实现的。</section></li></ul>
-<h3 style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">基于 angular</span><span class="suffix" style="display: none;"></span></h3>
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">这个项目目的是为了上手 angular，了解各类框架的不同。angular 和 nestjs 有着非常相似的开发模式，依赖注入。并且两个框架都支持 rxjs。rxjs 大大减少了要封装的代码。如 debounce 和 throttle。我采用的是 ng-alain 进行二次开发。大大的减少了开发周期。<a href="https://1247748612.github.io/angular-alain-admin/#" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">项目预览</a></p>
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">开发周期：一个星期</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">前端：angular 全家桶，typescript</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">后端：沿用了基于 vue 的后端</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">前端：所有功能点都已经被 ng-alain 封装好了。我只需要在用到到时候，依赖注入即可。在 angular 里并没有动态配置路由的方式（或许我没看见）动态路由也不好做懒加载。采用的方式是在 angular 里定义好路由，使用路由守卫做路由拦截，达到了一样的效果。</section></li></ul>
-</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">后端：改动了菜单的配置，根据 ng-alain 重新设计菜单表。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">实现难点：</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">没有像 vue 和 react 一样的 props 多层传递的好方案。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">在做动态菜单那块时，我一直在寻找和 vue 类似的解决方案，最好实在没找到后采用了路由守卫的方式来做。每个路由都有一个守卫，这则增加了大量的不必要的代码</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">其他的难点已忘记</section></li></ul>
-</blockquote>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">仿猫眼小程序</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">微信小程序原生开发、半成品项目，找到工作之后就没有继续写了。</p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈：原生小程序、api、接口爬取自猫眼网页移动端</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：五六个页面</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目状况：在 github 放着</section></li></ul>
-<h4 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 18px;"><span class="prefix" style="display: none;"></span><span class="content">个人博客</span><span class="suffix" style="display: none;"></span></h4>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">一直想做个博客，但又不想写太多代码。后面接触到了<a href="https://strapi.io/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">strapi</a>和<a href="https://www.gatsbyjs.org/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">gatsby</a>就开始实现了，主要也是为了上手 gatsby 和巩固 react，采用了 typescript 进行开发。</p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈：
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">前端：gatsby、gatsby 插件、materialUi、graphql、typescript</section></li><li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">后端：strapi、mongodb、graphql</section></li></ul>
-</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：
-<ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">前端：采用 graphql 获取数据，动态生成文章和标签页面等</section></li><li style="list-style-type: circle;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">后端：没有写一行代码，无头 cms，可视化创建表</section></li></ul>
-</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：首页、文章详情、文章列表、标签列表、标签详情</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目难点：难在 gatsby 的使用上，和之前的所有框架开发方式都不一样，而且还有 graphql 这个新知识点</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目状况：没有部署，项目在 github 上，半成品。</section></li></ul>
-<h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; background-color: #000; color: #fff; padding: 2px 10px; width: fit-content; font-size: 17px; margin: 60px auto 10px;"><span class="prefix" style="display: none;"></span><span class="content">minio 的 app 端</span><span class="suffix" style="display: none;"></span></h3>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">目的是实现一个自己的图床，采用了 minio 省去了后端开发。想巩固 react，考虑采用了 react-native 进行开发</p>
-</blockquote>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: square;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">技术栈：react-native、expo、typescript、react-navigation、paper 组件库以及 aws-sdk</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">功能点：上传图片、下载图片、删除图片、和连接 minio</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">页面：bucket 列表、minio 连接、bucket 详情、</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目难点：react-native 的技术点非错多，写的时候，同时看着 expo，react-native、aws-sdk 和 paper 的文档进行开发。后面遇见了上传图片的 bug，不知道是 expo 的 bug 还是安卓模拟器的问题无法解决。又遇见大图片无法分片上传的问题。最后导致放弃。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">项目状况：已放弃，开放到四分之一时。</section></li></ul>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-size: 22px; text-align: center; position: relative; font-weight: bold; color: black; line-height: 1.1em; padding-top: 12px; padding-bottom: 12px; margin: 70px 30px 30px; border: 1px solid #000;"><span style="float: left; display: block; width: 90%; border-top: 1px solid #000; height: 1px; line-height: 1px; margin-left: -5px; margin-top: -17px;"> </span><span class="prefix" style="display: block; width: 3px; margin: 0 0 0 5%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span class="content" style="display: block; -webkit-box-reflect: below 0em -webkit-gradient(linear,left top,left bottom, from(rgba(0,0,0,0)),to(rgba(255,255,255,0.1)));">我的技术栈</span><span class="suffix" style="display: block; width: 3px; margin: 0 0 0 95%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
-    0 3px #000,
-    -3px 0 #000,
-    0 -3px #000;"></span><span style="float: right; display: block; width: 90%; border-bottom: 1px solid #000; height: 1px; line-height: 1px; margin-right: -5px; margin-top: 16px;"> </span></h2>
-<blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">涉及到框架均掌握使用 typescript 进行开发项目，并且通常用到的是 typescript</p>
-</blockquote>
-<ol data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: decimal;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">熟练使用 vue 全家桶开发 h5 和移动端项目。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">熟练使用 react+hooks 开发，redux 状态管理和 redux-sagas 异步请求。以及阿里开源的技术：dva，umi。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">熟练使用微信小程序原生开发，megalo、<a href="https://github.com/didi/mpx/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">mpx</a>、taro 等框架进行开发微信小程序。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">熟练使用<a href="https://nestjs.com/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">nestjs</a>进行开发后端项目。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">掌握 angular 开发，采用 rxjs 进行状态管理和 http 请求处理。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">掌握<a href="https://www.gatsbyjs.org/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">gatsby</a>开发静态网站，官网、博客和推广页。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">掌握 react-native，会使用<a href="https://expo.io/" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">expo</a>进行 app 开发</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">熟练使用<a href="https://www.docker.com" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">docker</a>部署前端项目，docker+pm2 部署 node 后端项目。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">熟练使用各类框架 UI 库均使用过，echarts 图表的使用，分分钟上手。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">掌握前端各类优化方案，从代码到打包工具到 http 请求优化。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">掌握 chrome 调试工具，断点调试，console 调试。以及性能调试。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">熟练运用 sass，less 等 css 预处理，优化 css 代码和复用。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">git 代码版本管理/webpack 打包工具简单配置（看着文档配）/eslint 开发规范/vue 项目配置。</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">熟练使用 python 编写爬虫脚本，针对不同网页爬取信息。</section></li></ol>
-<h4 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 18px;"><span class="prefix" style="display: none;"></span><span class="content">本简历采用<a href="https://mdnice.com" class="md-opjjpmhoiojifppkkcdabiobhakljdgm_doc" style="text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8;">mdnice</a>编写</span><span class="suffix" style="display: none;"></span></h4>
-<span style="font-size: 15px; display: block; text-align: center; margin-top: 50px; color: #999; border-bottom: 1px solid #eee;">- END -</span></section>
+# 邓清简历
+
+## 重点
+
+- 工作经验一年半
+- 期望薪资12k-15k，现在9k
+- 身份证年龄20
+- 中专学历
+- 成人大专在读，2022.3毕业
+
+## 个人信息
+
+- 手机号：15917033340
+- 微信：15917033340
+- 邮箱：1247748612@qq.com
+- github：[https://github.com/1247748612](https://github.com/1247748612)
+
+[工作经历](https://www.notion.so/5ab98afc3fb94cb59e5414b67a708f07)
+
+# 项目合集
+
+### 车芝嘛小程序
+
+> 技术栈为wepy1.0，和主管共同开发。
+
+- 该小程序分经纪人端和潜客端在同一个小程序里。我主要负责经纪人端和后续需求的开发
+- 负责经纪人功能模块的开发
+- 负责一些页面的体验优化
+- 负责线上bug的修复
+
+### 直播营销（车主特卖）
+
+> 这个项目是我主导的，一个比较简单的小程序，技术栈为uniapp+vue全家桶。
+
+- 主要负责项目整体建设，针对uni-app基于vue脚手架创建该小程序后的页面铺设，接口封装，全局数据的管理以及微信api的封装等做管理，为后期迭代打下基础。
+- 项目初期我负责c端页面的开发。项目1.0版本之后。主要负责小程序的后续迭代和bug修复。
+- 在后面开发上由于前面都封装起来，整体也没有复杂的地方了。
+
+### **知鸟 OA（小程序）**
+
+> 公司内部的工作项目管理小程序（独立开发，开发周期三个月），先后开发过两个版本，第一个版本采用 megalo框架开发，因为各种问题导致不好用，后面，团队人员更新，前后端重构，小程序则采用原生开发。
+
+- 项目人员及开发周期：独立开发，开发周期三个月
+- 技术栈：原生小程序，websocket，组件库 vant-weapp。无 ui 开发
+- 功能点：管理级人员发布项目，部门组长发布项目任务，部门人员接任务。展示人员信息。任务消息通知，任务交流，项目交流。小程序消息通知。消息通知实时通知，采用 websockets。
+- 页面：项目展示，项目发布，项目详情，任务发布页，项目进度展示页，项目讨论。操作记录，消息通知，个人信息，帮助中心页，公司员工列表。
+- 项目状况：项目已上线，但未使用，因为上线完后，任务流程变动，变得不符合公司使用，就放弃了。
+
+### **房必应（小程序）**
+
+> 公司项目，提供客户发布需求，中介按照需求提供房源的想法，而开发的一个小程序。采用的是mpx框架开发，因为这个小程序设想之处就是较为庞大和复杂的，原生小程序虽然可以开发，但是较为复杂，和不好用的情况，经过和各类小程序框架对比，选择了 mpx。
+
+- 项目人员及开发周期：前期独立开发，后期时间太赶，有另一个前端开发了部分页面。开发周期加上后台为四个多月
+- 技术栈：[mpx](https://github.com/didi/mpx/)全家桶，微信小程序原生 api
+- 功能点：房源发布和房源推荐等都是后台动态配置的，以及有微信支付，小程序消息通知等功能。
+- 页面：房源发布、房源推荐、房源列表、中介和物业入驻、帮助中心、我的个人页等等
+- 项目状况：项目已上线，迭代过多个小版本，之后因疫情原因导致公司运转问题已不维护和运营，但还是能搜到该小程序。
+
+### **房必应（后台）**
+
+> 对标房必应小程序的后台，在小程序之前开发，先开发了基础的后台功能。clone 了vue-typescript-admin-template进行二次开发。改造了路由配置，大致流程为登陆后从后端获取菜单，然后处理之后 resetRouter 实现，为之后的不同人员的权限打下了基础。基础功能开发完后，和小程序进行同步开发。
+
+- 项目人员及开发周期：前期独立开发，后期时间太赶，有其他前端和后端参与开发了。项目周期加上小程序为四个多月。
+- 技术栈：vue 全家桶，typescript，[avue](https://avuejs.com/)，element-ui
+- 功能点：菜单和路由动态获取，也可动态分配路由。涵盖了小程序功能上的所有内容管理
+- 页面：系统级页面有（用户，角色，字典，菜单，日志）还有管理小程序的页面及配置项页，数据统计页，总共有十多个页面。
+- 优化：采用了组件按需引入，gzip 压缩，图片压缩，图片和打包后的静态文件等都采用 oss 存储，一秒内即可看到页面。
+- 项目状况：项目已上线，可访问，可操作。
+
+### **楼盘推广页（h5 自适应）**
+
+> 该项目其实非常简单只需要一个页面，但是推广页面非常的多和繁琐，到现在为止已经做了十十多个推广页。主要流程为设计师出图，ui 排版，前端根据 ui 图写成页面。
+
+- 技术栈（两种技术栈都实现了推广页）：
+    - vue、vant、typescript
+    - gatsby、和 gatsby 的插件、typescript
+- 功能点：
+    - vue：单页面，无路由，由于页面太多和功能可服用，不可能每个页面都创建一个项目，但是每个页面都需要单独部署。则采用了 git 来管理，一个页面一个分支的方式。
+    - gatsby: gatsby 为基于 react 的静态网站生成器，本身就支持 ssr，利于 seo 优化。而且容易管理多页面。非常符合我们的需求，之后就采用来 gatsby 实现。效果也很棒
+- 优化：全部采用 oss 存储图片和打包的静态文件。类似于 cdn 加速。
+- 项目状况：楼盘结束则页面也停止展示了。
+
+## **基础通用后台模板**
+
+项目灵感来源于公司项目房必应的后台。搭建基础模板非常的繁琐，和没必要。如果能直接把基础页面功能做了，之后的项目套用开发岂不是更快吗。本项目，先后使用 vue 和 angular 加上后端 nestjs 实现过。本打算继续使用 react 实现一套，采用的 umi，但多次尝试，达不到我想要的效果就放弃了。
+
+### **基于 vue**
+
+> 和房必应的后台非常相似，但去除了许多不必要的包，也没有采用 avue 来解决页面的 crud。而是参考 avue，采用 elementui 开发了一套简单版的 avue。但它也是高可服用的，因为是自己开发的，有了迭代的便利。[项目预览](https://www.dengqing.net/vue-admin/#/login?redirect=%2Fhome)
+
+- 技术栈（都采用 typescript 开发）：
+- 前端：vue 全家桶，element-ui，tinymce，mavon。
+- 后端：nestjs，mongodb，redis
+- 功能点：
+- 前端：基于 rbac 权限模型设计，根据权限标识符权限精确到按钮级别。动态配置路由及在线用户踢出等。
+- 后端：基于权限标识符，针对用户，对应等标识符，做到接口级别的权限判断，就算是跑接口也会返回 401，超级权限用户则随意访问任意接口。
+- 页面：系统级页面包含，用户管理、角色管理、菜单管理、字典管理、在线用户管理和日志管理
+- 实现难点：针对接口级别的权限判断，后面参考了各种解决方案，了解到了 rbac 权限模型的方式，根据权限标识符去做拦截，才实现的。
+
+### **基于 angular**
+
+> 这个项目目的是为了上手 angular，了解各类框架的不同。angular 和 nestjs 有着非常相似的开发模式，依赖注入。并且两个框架都支持 rxjs。rxjs 大大减少了要封装的代码。如 debounce 和 throttle。我采用的是 ng-alain 进行二次开发。大大的减少了开发周期。[项目预览](https://1247748612.github.io/angular-alain-admin/#)
+
+- 开发周期：一个星期
+- 技术栈
+- 前端：angular 全家桶，typescript
+- 后端：沿用了基于 vue 的后端
+- 功能点：
+    - 前端：所有功能点都已经被 ng-alain 封装好了。我只需要在用到到时候，依赖注入即可。在 angular 里并没有动态配置路由的方式（或许我没看见）动态路由也不好做懒加载。采用的方式是在 angular 里定义好路由，使用路由守卫做路由拦截，达到了一样的效果。
+- 后端：改动了菜单的配置，根据 ng-alain 重新设计菜单表。
+- 实现难点：
+- 没有像 vue 和 react 一样的 props 多层传递的好方案。
+- 在做动态菜单那块时，我一直在寻找和 vue 类似的解决方案，最好实在没找到后采用了路由守卫的方式来做。每个路由都有一个守卫，这则增加了大量的不必要的代码
+- 其他的难点已忘记
+
+## chexiu-cli脚手架
+
+> 起初是好奇脚手架怎么实现的，顺便想完整用webpack搭建一个vue+ts的项目出来，巩固webpack基础。 然后实现了此项目。[github地址](https://github.com/1247748612/chexiu-cli)
+
+项目命令
+
+- publish
+    - 自动化把打包后的build文件推送到build分支并打下tag，这个命令是根据公司的部署方式而实现的。
+- create
+    - 创建基于webpack5搭建的vue项目。分ts和js版，用命令区分
+
+webpack搭建出来的项目，包括postcss、babel、scss、eslint等等插件。详情看项目的templates文件夹
+
+## ts-axios库
+
+> 项目是看着[https://coding.imooc.com/class/330.html](https://coding.imooc.com/class/330.html) 这个视频完整实现了一遍，并升级了rollup的插件和typescript，还配置了babel，eslint等等。最重要的是，实现了小程序的适配器，适配了原生的微信小程序和uniapp。> [github地址](https://github.com/1247748612/ts-axios)、[npm地址](https://www.npmjs.com/package/@dengqing/mp-axios)
+
+小程序的适配器原理其实就是用的wx.request，并且axios官方库提供了一个配置参数adapter，可自己实现适配器。我是把适配器实现在核心里面了，不需要在外面配置了。
+
+项目未完全经过jest测试，只测了一个文件，没空整了。
+
+## 个人简历项目 （旧的，未更新简历）
+
+> 采用 mdnice 编写好简历，用 gatsby 去展示，github pages 部署 [预览地址](https://1247748612.github.io/resume/)
+
+- 技术栈： gatsby、markdown
+- 功能点：使用 gatsby 插件 gatsby-transformer-remark 将简历.md 转为 html 渲染成页面
+- 页面：简历页、404 页
+- 项目状态： 正常运行中
+
+---
+
+## 其他实践或非项目实践
+
+1. 刚学编程时，是写python爬虫的。写了大概很多python代码
+2. 有整过jenkins和drone自动化部署，还有其他的忘了。
+    1. jenkins太庞大了，起初我用本地电脑，性能较好带的动，然后用阿里云的学生服务器，部署到一半直接挂了。
+    2. drone的话，简洁，ui也不错。依赖服务器，需要域名。我部署的时候感觉很忙，可能也要好一点的性能。
+3. docker，我基本上拿来部署项目，和跑一些脚本，因为他可以自动重启。也曾试过用vscode打开remote-container然后打开docker容器来跑项目，让我叹为观止。
+4. 也在接触flutter，重心还是想放在前端上。
+5. vscode重度使用，装了一百多个插件。知道各种骚操作和常用插件的使用。如用vscode连ssh
+6. 忘了
+
+## 掌握技能
+
+1. 熟练使用vue全家桶，基本掌握angular开发和react开发
+2. 掌握node的nest后端框架
+3. 熟练使用python编写爬虫
+4. 会使用mongodb和redis数据库
+5. 掌握chrome各种调试能
+6. 熟练使用docker部署项目。
+7. 熟练使用git管理项目，了解git-flow大致流程
+8. 会使用webpack搭建项目架构和项目优化
+9. 小程序会使用原生开发，和各类框架开发，如mpx、melgao、uniapp、wepy
+10. css预处理则会使用scss。
+11. 熟悉ci/cd流程
+
+## 个人总结
+
+工作中高效完成分配下来的任务，并积极学习技术。把掌握的东西，运用在工作上。了解工作上的痛点，并写工具提高效率。
+
+工作外的时间，从掘金、知乎、b站、github中学习技术，并动手实践。并带到项目上提高工作效率。提供个人水平。
+
+## 心路历程
+
+大概是16年接触编程的吧，那时候是中专第二年。最开始是接触易语言，听人说不太行，然后就去学c语言，看的是黑马的视频，不知道是不是我找的视频不对，是从c++开始学的。学的挺费劲的，然后查资料看别人说，然后就重学c语言。把c语言基础过完了，也不知道能干啥。不知道啥原因就跑去学java了，后面对android感兴趣就学android了，学的更费劲了，api也太长了吧记不住。到后面看论坛看别人说python爬虫挺牛逼的，也简单，就学python了，这时候已经是中专要实习了，不过我没去。对比之前学的语言来说，python是最简单的了。然后也运气好，加入了一个写代码的群，接了很多python的单子，提高了python的技术。后面在华立技师读书，加入了本科的社团，也颓废了一段时间没怎么学东西。临近高技快毕业。感觉python找不到工作，得感觉学门技术。对比之后，感觉前端最好学了，就学了前端，因为自己有其他语言的基础，加上之前写爬虫，对html、js有些了解。学的就更轻松了。其实后面深入我感觉还是挺难的，经过一年多的技术积累，然后到现在，估摸着认真学前端应该就最多两年吧。
