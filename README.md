@@ -7,7 +7,7 @@
     -3px 0 #000,
     0 -3px #000;"></span><span style="float: right; display: block; width: 90%; border-bottom: 1px solid #000; height: 1px; line-height: 1px; margin-right: -5px; margin-top: 16px;"> </span></h2>
 <blockquote data-tool="mdnice编辑器" style="display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left: 3px solid rgba(0, 0, 0, 0.65); border-right: 1px solid rgba(0, 0, 0, 0.65); background: rgb(249, 249, 249);">
-<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">我叫邓清。今年 20 岁。来自广东韶光。我从 2019 年 4 月开始工作，到现在为止已经有一年四个月了，在此期间我曾在两家公司工作。在工作中我主要负责小程序和小程序的后台管理平台开发，也涉及到一些简单的后端项目开发。我致力于成为一名优秀的全栈工程师，在前端稳步提升，后端站稳脚根，追上时代更新的步伐。</p>
+<p style="padding-top: 8px; padding-bottom: 8px; font-size: 14px; margin: 0px; color: black; line-height: 26px;">我叫邓清。今年 20 岁。来自广东韶关。我从 2019 年 4 月开始工作，到现在为止已经有一年四个月了，在此期间我曾在两家公司工作。在工作中我主要负责小程序和小程序的后台管理平台开发，也涉及到一些简单的后端项目开发。我致力于成为一名优秀的全栈工程师，在前端稳步提升，后端站稳脚根，追上时代更新的步伐。</p>
 </blockquote>
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-size: 22px; text-align: center; position: relative; font-weight: bold; color: black; line-height: 1.1em; padding-top: 12px; padding-bottom: 12px; margin: 70px 30px 30px; border: 1px solid #000;"><span style="float: left; display: block; width: 90%; border-top: 1px solid #000; height: 1px; line-height: 1px; margin-left: -5px; margin-top: -17px;"> </span><span class="prefix" style="display: block; width: 3px; margin: 0 0 0 5%; height: 3px; line-height: 3px; overflow: hidden; background-color: #000; box-shadow: 3px 0 #000,
     0 3px #000,
