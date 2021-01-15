@@ -6,8 +6,8 @@ I am a front-end engineer
 
 ### 正在做
 
-刷[leetcode](https://leetcode-cn.com/u/dengqing-x/)
-看vue源码
+- 刷[leetcode](https://leetcode-cn.com/u/dengqing-x/)
+- 看vue源码
 
 ### 掌握技能
 - 熟练使用vue全家桶，和typescript。能快速切换angular和react开发项目
