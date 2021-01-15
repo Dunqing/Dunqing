@@ -4,6 +4,8 @@ I am a front-end engineer
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=1247748612&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&layout=compact&username=1247748612)](https://github.com/anuraghazra/github-readme-stats)
 
+[leetcode](https://leetcode-cn.com/u/dengqing-x/)
+
 ### 掌握技能
 - 熟练使用vue全家桶，和typescript。能快速切换angular和react开发项目
 - 掌握node的nest后端框架、会使用mongodb和redis数据库
