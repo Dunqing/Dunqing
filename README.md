@@ -5,6 +5,7 @@
 - Focus on looking at open source projects
 - Solve the issue that I can solve
 - Improve my knowledge and ability
+- Find a good job
 
 
 ### Contact
