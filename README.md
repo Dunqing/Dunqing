@@ -11,9 +11,9 @@
 
 ### Contact
 
-Email: dengqing0821@gmail.com
-Discord: dengqing#8810
-Telegram: luckingforme
+- Email: dengqing0821@gmail.com
+- Discord: dengqing#8810
+- Telegram: luckingforme
 
 ### Languages and Tools
 
