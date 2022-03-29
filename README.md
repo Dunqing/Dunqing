@@ -8,6 +8,7 @@
 - Solve the issue that I can solve
 - Improve my knowledge and ability
 - Looking forward to new job opportunities / 看机会
+- [Leetcode](https://leetcode-cn.com/u/dengqing-x/)
 
 ### Contact
 
