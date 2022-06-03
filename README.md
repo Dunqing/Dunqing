@@ -2,6 +2,7 @@
 
 ### Doing
 
+- Learning Vue3
 - Focus on looking at open source projects
 - Solve the issue that I can solve
 - Improve my knowledge and ability
