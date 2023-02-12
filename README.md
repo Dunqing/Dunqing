@@ -1,18 +1,17 @@
-<h3 align="center">Open source enthusiasts</h3>
-<!-- ## Frontend engineer
+## Frontend engineer
 
 ### Doing
 
 - Focus on looking at open source projects
 - Improve my knowledge and ability
 - Looking forward to new job opportunities
-- [Leetcode](https://leetcode-cn.com/u/dengqing-x/)
 
 ### Contact
 
 - Email: dengqing0821@gmail.com
 - Discord: Dunqing#8810
 - Telegram: luckingforme
+- [Leetcode](https://leetcode-cn.com/u/dengqing-x/)
 
 ### Languages and Tools
 
@@ -27,9 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
 
-
 ### Other
 <img align="center" style="width: 100%; height: 22vh" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Dunqing"></img>
   
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Dunqing&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
- -->
