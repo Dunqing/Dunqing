@@ -13,7 +13,7 @@
 - Telegram: luckingforme
 - [Leetcode](https://leetcode-cn.com/u/dengqing-x/)
 
-### Languages and Tools
+<!-- ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
@@ -24,7 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code> -->
 
 ### Other
 <img align="center" style="width: 100%; height: 22vh" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Dunqing"></img>
