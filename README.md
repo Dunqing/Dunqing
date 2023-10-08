@@ -1,10 +1,6 @@
 ## Frontend engineer
 
-### Doing
-
-- Focus on looking at open source projects
-- Improve my knowledge and ability
-- Looking forward to new job opportunities
+### Need a remote job or in shenzhen feel free to contact me if you can help me.
 
 ### Contact
 
