@@ -1,7 +1,7 @@
 ## Frontend engineer
 
-### Need a remote job or in shenzhen feel free to contact me if you can help me.
-### 找 remote 或在深圳的工作，求内推。
+### Need a remote job feel free to contact me if you can help me.
+### 即将失业，求内推。
 
 ### Contact
 
