@@ -1,8 +1,5 @@
 ## Frontend engineer
 
-### Need a remote job feel free to contact me if you can help me.
-### 即将失业，求内推。
-
 ### Contact
 
 - Email: dengqing0821@gmail.com
