@@ -1,12 +1,5 @@
 ## Frontend engineer
 
-### Contact
-
-- Email: dengqing0821@gmail.com
-- Discord: Dunqing#8810
-- Telegram: luckingforme
-- [Leetcode](https://leetcode-cn.com/u/dengqing-x/)
-
 <!-- ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
